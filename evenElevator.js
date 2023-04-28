@@ -1,4 +1,4 @@
-function evenElevator(floorNumber){
+export default function evenElevator(floorNumber){
   if(floorNumber === 1 || floorNumber === -1){
     return console.log(`${floorNumber}층 입니다.`)
   }else if(floorNumber%2===0){

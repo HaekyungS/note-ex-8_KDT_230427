@@ -1,4 +1,4 @@
-function oddElevator(floorNumber){
+export default function oddElevator(floorNumber){
   if(floorNumber === 10 || floorNumber === -1){
     return console.log(`${floorNumber}층 입니다.`)
   }else if(floorNumber%2===1){
