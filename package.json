@@ -1,0 +1,23 @@
+{
+  "name": "note-ex-9_kdt_230427",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaekyungS/note-ex-9_KDT_230427.git"
+  },
+  "author": "HaekyungSeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaekyungS/note-ex-9_KDT_230427/issues"
+  },
+  "homepage": "https://github.com/HaekyungS/note-ex-9_KDT_230427#readme",
+  "dependencies": {
+    "inquirer": "^9.2.0"
+  }
+}
